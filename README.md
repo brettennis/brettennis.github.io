@@ -1,5 +1,7 @@
 # Cinebench Release 23
 
+---
+
 ## Introduction
 
 Cinebench is a way for users to easily evaluate their computer's hardware capabilities. The application uses a powerful 3D engine to test the rendering capabilities of a system's CPU. A computer's Cinebench score can easily be compared with others, giving users a standard number to represent real-world performance.
