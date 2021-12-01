@@ -9,7 +9,7 @@ Select **Windows** or **MacOS** and download the application.
 Be sure to accept the given terms and conditions upon opening the application.
 
 
-**If using MacOS, the following steps are also needed:**
+### If using MacOS, the following steps are also needed:
 
 Drag the application into the **Applications** folder.
 
