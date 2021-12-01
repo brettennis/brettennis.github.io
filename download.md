@@ -1,12 +1,20 @@
 ## Download
-This is a picture.
+
+To download Cinebench, first navigate to [Maxon's download page.](https://www.maxon.net/en/downloads/cinebench-r23-downloads)
+
+Select **Windows** or **MacOS** and open the application.
 
 <img src="https://brettennis.github.io/mac_step1.png" alt="image" width="400"/>
 
+Accept the given terms and conditions and begin using Cinebench.
+
+
+If using MacOS, the following steps are also needed.
+
+Drag the application into the **Applications** folder.
+
 <img src="https://brettennis.github.io/mac_step2.png" alt="image" width="400"/>
 
+If prompted, select **Open**.
+
 <img src="https://brettennis.github.io/mac_step3.png" alt="image" width="400"/>
-
-<img src="https://brettennis.github.io/mac_step5.png" alt="image" width="400"/>
-
-<img src="https://brettennis.github.io/mac_step6.png" alt="image" width="400"/>
